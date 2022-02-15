@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 437e2949-f6cc-892b-a6b0-f7928f4ffbb0
 ---
@@ -53,7 +56,7 @@ Name: X
 
 Title: Development of a molecular classification for ovarian carcinoma
 
-Background: Ovarian carcinoma is the 3rd leading cause of death among women ages X to Y (ref 1). Current diagnostic criteria emphasize morphological features such as … (ref 2). However, there is substantial heterogeneity in rate of tumor growth, metastasis and response to chemotherapy, suggesting the existence of diverse disease types within the current diagnosis of ovarian carcinoma (ref 3). Previous studies have documented molecular heterogeneity within both diffuse large B cell lymphoma and breast cancer (refs 4,5).
+Background: Ovarian carcinoma is the 3{{< sup "rd" >}} leading cause of death among women ages X to Y (ref 1). Current diagnostic criteria emphasize morphological features such as … (ref 2). However, there is substantial heterogeneity in rate of tumor growth, metastasis and response to chemotherapy, suggesting the existence of diverse disease types within the current diagnosis of ovarian carcinoma (ref 3). Previous studies have documented molecular heterogeneity within both diffuse large B cell lymphoma and breast cancer (refs 4,5).
 
 Hypothesis: Ovarian carcinoma consists of multiple, molecularly distinct diseases.
 
