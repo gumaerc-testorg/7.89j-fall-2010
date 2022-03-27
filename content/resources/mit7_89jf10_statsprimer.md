@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a69c4edf-535e-0fe3-8e96-39a17d7af0bd
 resourcetype: Document
 title: Statistics and Probability Primer for Computational Biologists
 uid: 94e4f291-339c-748a-7516-257c457a0ce7
