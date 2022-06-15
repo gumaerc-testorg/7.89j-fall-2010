@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions, instructions, and guidelines for
+  the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -50,7 +52,7 @@ Hypothesis (1 or 2 sentences)
 Specific Aim (1 or 2 sentences)  
 References (3-5 suggested. List authors, year, title of paper, title of journal, etc.)
 
-For example, reading the [Alizadeh, et al.]({{< baseurl >}}/pages/readings) paper from Week 3 made student X more certain than ever that he wanted to work on cancer classification and diagnosis using molecular approaches during his Ph.D. After doing some reading, X decided that ovarian cancer is an attractive target. Student X's initial idea statement might look something like this:
+For example, reading the {{% resource_link a69c4edf-535e-0fe3-8e96-39a17d7af0bd "Alizadeh, et al." %}} paper from Week 3 made student X more certain than ever that he wanted to work on cancer classification and diagnosis using molecular approaches during his Ph.D. After doing some reading, X decided that ovarian cancer is an attractive target. Student X's initial idea statement might look something like this:
 
 Name: X
 
