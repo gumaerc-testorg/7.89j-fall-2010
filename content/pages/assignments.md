@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions, instructions, and guidelines for
+  the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 437e2949-f6cc-892b-a6b0-f7928f4ffbb0
 ---
@@ -47,13 +52,13 @@ Hypothesis (1 or 2 sentences)
 Specific Aim (1 or 2 sentences)  
 References (3-5 suggested. List authors, year, title of paper, title of journal, etc.)
 
-For example, reading the [Alizadeh, et al.]({{< baseurl >}}/pages/readings) paper from Week 3 made student X more certain than ever that he wanted to work on cancer classification and diagnosis using molecular approaches during his Ph.D. After doing some reading, X decided that ovarian cancer is an attractive target. Student X's initial idea statement might look something like this:
+For example, reading the {{% resource_link a69c4edf-535e-0fe3-8e96-39a17d7af0bd "Alizadeh, et al." %}} paper from Week 3 made student X more certain than ever that he wanted to work on cancer classification and diagnosis using molecular approaches during his Ph.D. After doing some reading, X decided that ovarian cancer is an attractive target. Student X's initial idea statement might look something like this:
 
 Name: X
 
 Title: Development of a molecular classification for ovarian carcinoma
 
-Background: Ovarian carcinoma is the 3rd leading cause of death among women ages X to Y (ref 1). Current diagnostic criteria emphasize morphological features such as … (ref 2). However, there is substantial heterogeneity in rate of tumor growth, metastasis and response to chemotherapy, suggesting the existence of diverse disease types within the current diagnosis of ovarian carcinoma (ref 3). Previous studies have documented molecular heterogeneity within both diffuse large B cell lymphoma and breast cancer (refs 4,5).
+Background: Ovarian carcinoma is the 3{{< sup "rd" >}} leading cause of death among women ages X to Y (ref 1). Current diagnostic criteria emphasize morphological features such as … (ref 2). However, there is substantial heterogeneity in rate of tumor growth, metastasis and response to chemotherapy, suggesting the existence of diverse disease types within the current diagnosis of ovarian carcinoma (ref 3). Previous studies have documented molecular heterogeneity within both diffuse large B cell lymphoma and breast cancer (refs 4,5).
 
 Hypothesis: Ovarian carcinoma consists of multiple, molecularly distinct diseases.
 

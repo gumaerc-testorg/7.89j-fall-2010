@@ -1,14 +1,20 @@
 ---
 content_type: page
+description: This section provides a list of readings and optional readings by week,
+  links to online journal articles, background reading on probability and statistics,
+  and tips on reading papers and leading a discussion about a paper.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a69c4edf-535e-0fe3-8e96-39a17d7af0bd
 ---
 
 The assigned readings are from primary literature. You are responsible for understanding the essential ideas, results and methods used in papers 1 and 2 for each session, which may require reading the optional supplementary information or background reference material.
 
-Tips on reading papers and leading a discussion about a paper ([PDF]({{< baseurl >}}/resources/mit7_89jf10_notes_on_read))
+Tips on reading papers and leading a discussion about a paper ({{% resource_link 8e4e93c0-f2a4-48dc-c457-437902a553ea "PDF" %}})
 
-Background reading on probability and statistics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.2MB]({{< baseurl >}}/resources/mit7_89jf10_statsprimer))
+Background reading on probability and statistics ({{% resource_link 94e4f291-339c-748a-7516-257c457a0ce7 "PDF - 5.2MB" %}})
 
 (Courtesy of Woolf, P., C. Burge, A. Keating, and M. Yaffe. Used with permission.)
 
