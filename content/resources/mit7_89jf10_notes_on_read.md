@@ -6,6 +6,7 @@ file: /courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/8e4e9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Notes on Reading Papers and Leading a Discussion about a Paper '
 uid: 8e4e93c0-f2a4-48dc-c457-437902a553ea
 ---
 Tips on reading papers and leading a discussion about a paper for the course.
-
