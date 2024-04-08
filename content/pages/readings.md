@@ -55,11 +55,11 @@ Genomics and protein function
 
 ### Paper 1
 
-Marcotte, E. M., M. Pellegrini, H. Ng, D. W. Rice, T. O. Yeates, and D. Eisenberg. "[Detecting Protein Function and Protein-Protein Interactions from Genome Sequences](http://www.sciencemag.org/content/285/5428/751.full?sid=be5213fe-51b7-4f61-8c83-30cc3177cf55)." _Science_ 285 (1999): 751-53.
+Marcotte, E. M., M. Pellegrini, H. Ng, D. W. Rice, T. O. Yeates, and D. Eisenberg. "{{% resource_link "33bfb1a0-d81f-444e-adf3-36420d579bf8" "Detecting Protein Function and Protein-Protein Interactions from Genome Sequences" %}}." _Science_ 285 (1999): 751-53.
 
 ### Paper 2
 
-Pellegrini, M., E. M. Marcotte, M. J. Thompson, D. Eisenberg, and T. O. Yeates. "[Assigning Protein Functions by Comparative Genome Analysis: Protein Phylogenetic Profiles](http://www.ncbi.nlm.nih.gov/pubmed/10200254)." _Proc Natl Acad Sci_ 96 (1999): 4285-88.
+Pellegrini, M., E. M. Marcotte, M. J. Thompson, D. Eisenberg, and T. O. Yeates. "{{% resource_link "1c051dc0-2086-4a96-846a-d146e29e99d4" "Assigning Protein Functions by Comparative Genome Analysis: Protein Phylogenetic Profiles" %}}." _Proc Natl Acad Sci_ 96 (1999): 4285-88.
 
 
 {{< tdclose >}}
@@ -77,17 +77,17 @@ Function of nucleic acid binding factors
 
 ### Paper 1
 
-Lim, L. P., N. C. Lau, P. Garett-Engele, A. Grimson, J. M. Schelter, J. Castle, D. P. Bartel, P. S. Linsley, and J. M. Johnson. "[Microarray Analysis Shows that Some microRNAs Downregulate Large Numbers of Target mRNAs](http://www.nature.com/nature/journal/v433/n7027/abs/nature03315.html)." _Nature_ 433 (2005): 769-73.
+Lim, L. P., N. C. Lau, P. Garett-Engele, A. Grimson, J. M. Schelter, J. Castle, D. P. Bartel, P. S. Linsley, and J. M. Johnson. "{{% resource_link "c5ed1805-d4cd-4104-8518-b97147274137" "Microarray Analysis Shows that Some microRNAs Downregulate Large Numbers of Target mRNAs" %}}." _Nature_ 433 (2005): 769-73.
 
 ### Paper 2
 
-Johnson, D. S., et al. "[Genome-Wide Mapping of _in Vivo_ Protein-DNA Interactions](http://www.sciencemag.org/content/316/5830/1497.abstract)." _Science_ 316 (2007): 1497-1502.
+Johnson, D. S., et al. "{{% resource_link "05f9b079-0c64-481d-9115-9285e11f3bc1" "Genome-Wide Mapping of _in Vivo_ Protein-DNA Interactions" %}}." _Science_ 316 (2007): 1497-1502.
 
 ### Optional
 
-Du, T., and P. D. Zamore. "[microPrimer: The Biogenesis and Function of microRNA](http://www.ncbi.nlm.nih.gov/pubmed/16224044?dopt=Abstract)." _Development_ 132 (2005): 4645-52.
+Du, T., and P. D. Zamore. "{{% resource_link "03bf7605-2320-4e95-bd52-0e994e8c5c93" "microPrimer: The Biogenesis and Function of microRNA" %}}." _Development_ 132 (2005): 4645-52.
 
-Metzker, M. "[Sequencing Technologies—the Next Generation](http://www.ncbi.nlm.nih.gov/pubmed/19997069)." _Nature Reviews Genetics_ 11 (2010): 31-46.
+Metzker, M. "{{% resource_link "04805384-9b47-4970-91b8-942ee9bcf67a" "Sequencing Technologies—the Next Generation" %}}." _Nature Reviews Genetics_ 11 (2010): 31-46.
 
 
 {{< tdclose >}}
@@ -105,11 +105,11 @@ Gene expression & medicine
 
 ### Paper 1
 
-Hughes, T. R., et al. "[Functional Discovery via a Compendium of Expression Profiles](http://www.ncbi.nlm.nih.gov/pubmed/10929718)." _Cell_ 102 (2000): 109-126.
+Hughes, T. R., et al. "{{% resource_link "7a96bb02-ccd9-4ae3-860d-283deb75be9a" "Functional Discovery via a Compendium of Expression Profiles" %}}." _Cell_ 102 (2000): 109-126.
 
 ### Paper 2
 
-Alizadeh, A., et al. "[Distinct Types of Diffuse Large B-cell Lymphoma Identified by Gene Expression Profiling](http://www.nature.com/nature/journal/v403/n6769/full/403503a0.html)." _Nature_ 403 (2000): 503-11.
+Alizadeh, A., et al. "{{% resource_link "d6b21530-3533-4526-87e7-4f0e1cf423b6" "Distinct Types of Diffuse Large B-cell Lymphoma Identified by Gene Expression Profiling" %}}." _Nature_ 403 (2000): 503-11.
 
 ### Optional
 
@@ -133,15 +133,15 @@ Evolutionary dynamics
 
 ### Paper 1
 
-Hegreness, M., N. Shoresh, D. Hartl, and R. Kishony. "[An Equivalence Principle for the Incorporation of Favorable Mutations in Asexual Populations](http://www.sciencemag.org/content/311/5767/1615.full)." _Science_ 311 (2006): 1615-17.
+Hegreness, M., N. Shoresh, D. Hartl, and R. Kishony. "{{% resource_link "05e16b97-761f-4d87-bf2c-cc1d4d5b1c8e" "An Equivalence Principle for the Incorporation of Favorable Mutations in Asexual Populations" %}}." _Science_ 311 (2006): 1615-17.
 
 ### Paper 2
 
-Weinrich, D. M., N. F. Delaney, M. A. DePristo, and D. L. Hartl. "[Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins](http://www.sciencemag.org/content/312/5770/111.full)." _Science_ 312 (2006): 111-114.
+Weinrich, D. M., N. F. Delaney, M. A. DePristo, and D. L. Hartl. "{{% resource_link "c36c2ad4-731e-432d-93ea-11b40256d681" "Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins" %}}." _Science_ 312 (2006): 111-114.
 
 ### Optional
 
-Poelwijk, F. J., D. J. Kiviet, D. M. Weinreich, and S. J. Tans. "[Empirical Fitness Landscapes Reveal Accessible Evolutionary Paths](http://dx.doi.org/10.1038/nature05451)." _Nature_ 445 (2007): 383-6.
+Poelwijk, F. J., D. J. Kiviet, D. M. Weinreich, and S. J. Tans. "{{% resource_link "3419fdff-71d1-49e4-9b33-e352c0b1bb92" "Empirical Fitness Landscapes Reveal Accessible Evolutionary Paths" %}}." _Nature_ 445 (2007): 383-6.
 
 
 {{< tdclose >}}
@@ -159,15 +159,15 @@ Proofreading in biology
 
 ### Paper 1
 
-Hopfield, J. J. "[Kinetic Proofreading: A New Mechanism for Reducing Errors in Biosynthetic Processes Requiring High Specificity](http://www.ncbi.nlm.nih.gov/pubmed/4530290)." _PNAS_ 71 (1974): 4135-4139.
+Hopfield, J. J. "{{% resource_link "3a304b19-8b7f-40da-bccc-f7653764aca3" "Kinetic Proofreading: A New Mechanism for Reducing Errors in Biosynthetic Processes Requiring High Specificity" %}}." _PNAS_ 71 (1974): 4135-4139.
 
 ### Paper 2
 
-Drummond, A., J. D. Bloom, C. Adami, C. O. Wilke, and F. H. Arnold. "[Why Highly Expressed Proteins Evolve Slowly](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1242296/)." _PNAS_ 102 (2005): 14338-43.
+Drummond, A., J. D. Bloom, C. Adami, C. O. Wilke, and F. H. Arnold. "{{% resource_link "b529808e-b9ab-4d56-a97c-06719bd66066" "Why Highly Expressed Proteins Evolve Slowly" %}}." _PNAS_ 102 (2005): 14338-43.
 
 ### Optional
 
-Zaher, H. S., and R. Green. "[Fidelity at the Molecular Level: Lessons from Protein Synthesis](http://www.ncbi.nlm.nih.gov/pubmed/19239893)." _Cell_ 136 (2009): 746-62.
+Zaher, H. S., and R. Green. "{{% resource_link "5b0753bf-fc03-4591-aae0-22ddc0694b42" "Fidelity at the Molecular Level: Lessons from Protein Synthesis" %}}." _Cell_ 136 (2009): 746-62.
 
 
 {{< tdclose >}}
@@ -185,13 +185,13 @@ Sequencing & translation
 
 ### Paper 1
 
-Ingolia, N. T., S. Ghaemmaghami, J. R. S. Newman, and J. S. Weissman. "[Genome-wide Analysis _in Vivo_ of Translation with Nucleotide Resolution Using Ribosome Profiling](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2746483/)." _Science_ 324 (2009): 218-223.
+Ingolia, N. T., S. Ghaemmaghami, J. R. S. Newman, and J. S. Weissman. "{{% resource_link "43af4e8c-378b-4708-a5e0-0fc0f5398f04" "Genome-wide Analysis _in Vivo_ of Translation with Nucleotide Resolution Using Ribosome Profiling" %}}." _Science_ 324 (2009): 218-223.
 
 ### Optional
 
-Hinnebusch, A. G. "[Translational Regulation of Yeast GCN4](http://www.ncbi.nlm.nih.gov/pubmed/9268289)." _The Journal of Biological Chemistry_ 272 (1997): 21661-4.
+Hinnebusch, A. G. "{{% resource_link "ba210e20-9eee-46f9-b18e-fd6bea2dc916" "Translational Regulation of Yeast GCN4" %}}." _The Journal of Biological Chemistry_ 272 (1997): 21661-4.
 
-Metzker, M. L. "[Sequencing Technologies - the Next Generation](http://www.ncbi.nlm.nih.gov/pubmed/19997069)." _Nature Reviews Genetics_ 11 (2010): 31-46.
+Metzker, M. L. "{{% resource_link "04805384-9b47-4970-91b8-942ee9bcf67a" "Sequencing Technologies - the Next Generation" %}}." _Nature Reviews Genetics_ 11 (2010): 31-46.
 
 
 {{< tdclose >}}
@@ -209,15 +209,15 @@ Network motifs in biology
 
 ### Paper 1
 
-Shen-Orr, S. S., R. Milo, S. Mangan, and U. Alon. "[Network Motifs in the Transcriptional Regulation Network of _Escherichia Coli_](http://www.ncbi.nlm.nih.gov/pubmed/11967538)." _Nature Genetics_ 31 (2002): 64-68.
+Shen-Orr, S. S., R. Milo, S. Mangan, and U. Alon. "{{% resource_link "27f34b52-3a10-4d70-86e3-509f2e180cfd" "Network Motifs in the Transcriptional Regulation Network of _Escherichia Coli_" %}}." _Nature Genetics_ 31 (2002): 64-68.
 
 ### Paper 2
 
-Ma, W., A. Trusina, H. El-Samad, W. A. Lim, and C. Tang. "[Defining Network Topologies that Can Achieve Biochemical Adaptation](http://www.cell.com/abstract/S0092-8674%2809%2900712-0)." _Cell_ 138 (2009): 760-73.
+Ma, W., A. Trusina, H. El-Samad, W. A. Lim, and C. Tang. "{{% resource_link "d12500bd-217f-4e56-8ce1-183202c17d09" "Defining Network Topologies that Can Achieve Biochemical Adaptation" %}}." _Cell_ 138 (2009): 760-73.
 
 ### Optional
 
-Alon, U. "[Network Motifs: Theory and Experimental Approaches](http://www.ncbi.nlm.nih.gov/pubmed/17510665)." _Nature Publishing Group_ 8 (2007): 450-461.
+Alon, U. "{{% resource_link "97c5ada0-740a-4c8b-811a-dd1797397267" "Network Motifs: Theory and Experimental Approaches" %}}." _Nature Publishing Group_ 8 (2007): 450-461.
 
 
 {{< tdclose >}}
@@ -235,11 +235,11 @@ Pathway modeling
 
 ### Paper 1
 
-McAdams, H. H., and L. Shapiro. "[Circuit Simulation of Genetic Networks](http://www.sciencemag.org/content/269/5224/650.abstract)." _Science_ 269 (1995): 650-6.
+McAdams, H. H., and L. Shapiro. "{{% resource_link "766b55b5-bfdc-404e-bc5b-100a79db9fe7" "Circuit Simulation of Genetic Networks" %}}." _Science_ 269 (1995): 650-6.
 
 ### Paper 2
 
-Gutenkunst, R. N., J. J. Waterfall, F. P. Casey, K. S. Brown, C. R. Myers, and J. P. Sethna. "[Universally Sloppy Parameter Sensitivities in Systems Biology Models](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.0030189)." _PLoS Computational Biology_ 3, e189 (2007): 1871-8.
+Gutenkunst, R. N., J. J. Waterfall, F. P. Casey, K. S. Brown, C. R. Myers, and J. P. Sethna. "{{% resource_link "6edc62cc-eea2-4741-ad8a-8fd1c2d62e1c" "Universally Sloppy Parameter Sensitivities in Systems Biology Models" %}}." _PLoS Computational Biology_ 3, e189 (2007): 1871-8.
 
 
 {{< tdclose >}}
@@ -257,11 +257,11 @@ Variability between cells
 
 ### Paper 1
 
-Suel, G. M., R. P. Kulkarni, J. Dworkin, J. Garcia-Ojalvo, and M. B. Elowitz. "[Tunability and Noise Dependence in Differentiation](http://www.ncbi.nlm.nih.gov/pubmed/17379809)." _Science_ 315 (2007): 1716-19.
+Suel, G. M., R. P. Kulkarni, J. Dworkin, J. Garcia-Ojalvo, and M. B. Elowitz. "{{% resource_link "44399511-d6dd-4729-9dc4-b4867f847717" "Tunability and Noise Dependence in Differentiation" %}}." _Science_ 315 (2007): 1716-19.
 
 ### Paper 2
 
-Spencer, S. L., S. Gaudet, J. G. Albeck, J. M. Burke, and P. K. Sorger. "[Non-Genetic Origins of Cell-to-Cell Variability in TRAIL-Induced Apoptosis](http://www.ncbi.nlm.nih.gov/pubmed/19363473)." _Nature_ 459 (2009): 428-33.
+Spencer, S. L., S. Gaudet, J. G. Albeck, J. M. Burke, and P. K. Sorger. "{{% resource_link "5320107a-128c-446c-87e0-e7052c9627ff" "Non-Genetic Origins of Cell-to-Cell Variability in TRAIL-Induced Apoptosis" %}}." _Nature_ 459 (2009): 428-33.
 
 
 {{< tdclose >}}
@@ -279,15 +279,15 @@ Synthetic biology
 
 ### Paper 1
 
-Elowitz, M. B., and S. Leibler. "[A Synthetic Oscillatory Network of Transcriptional Regulators](http://www.nature.com/nature/journal/v403/n6767/abs/403335a0.html)." _Nature_ 403 (2000): 335-8.
+Elowitz, M. B., and S. Leibler. "{{% resource_link "4ec6f21d-81c1-4db1-ba6f-6a3a212a4c84" "A Synthetic Oscillatory Network of Transcriptional Regulators" %}}." _Nature_ 403 (2000): 335-8.
 
 ### Paper 2
 
-Tabor, J., H. M. Salis, Z. Booth Simpson, A. A. Chevalier, A. Levskaya, E. M. Marcotte, C. A. Voigt, and A. D. Ellington. "[A Synthetic Edge Detection Program](http://www.ncbi.nlm.nih.gov/pubmed/19563759)." _Cell_ 137 (2009): 1272-81.
+Tabor, J., H. M. Salis, Z. Booth Simpson, A. A. Chevalier, A. Levskaya, E. M. Marcotte, C. A. Voigt, and A. D. Ellington. "{{% resource_link "0809a66b-73a3-41d5-b005-1fc9b19ca0eb" "A Synthetic Edge Detection Program" %}}." _Cell_ 137 (2009): 1272-81.
 
 ### Optional
 
-Purnick, E. M., and R. Weiss. "[The Second Wave of Synthetic Biology: From Modules to Systems](http://www.ncbi.nlm.nih.gov/pubmed/19461664)." _Nature Reviews Molecular Cell Biology_ 10 (2009): 410-22.
+Purnick, E. M., and R. Weiss. "{{% resource_link "0aa5deae-8528-4191-b70e-db60c5d1c8be" "The Second Wave of Synthetic Biology: From Modules to Systems" %}}." _Nature Reviews Molecular Cell Biology_ 10 (2009): 410-22.
 
 
 {{< tdclose >}}
@@ -305,15 +305,15 @@ Metagenomics
 
 ### Paper 1
 
-Tringe, S. G., C. von Mering, A. Kobayashi, A. A. Salamov, K. Chen, H. W. Chang, M. Podar, J. M. Short, E. J. Mathur, J. C. Detter, P. Bork, P. Hugenholtz, and E. M. Rubin. "[Comparative Metagenomics of Microbial Communities](http://www.sciencemag.org/content/308/5721/554.short)." _Science_ 308 (2005): 554-7.
+Tringe, S. G., C. von Mering, A. Kobayashi, A. A. Salamov, K. Chen, H. W. Chang, M. Podar, J. M. Short, E. J. Mathur, J. C. Detter, P. Bork, P. Hugenholtz, and E. M. Rubin. "{{% resource_link "ba0851d3-9dcc-4b14-a5ef-44565706ba14" "Comparative Metagenomics of Microbial Communities" %}}." _Science_ 308 (2005): 554-7.
 
 ### Paper 2
 
-Andersson, A. F., and J. F. Banfield. "[Virus Population Dynamics and Acquired Virus Resistance in Natural Microbial Communities](http://www.sciencemag.org/content/320/5879/1047.full)." _Science_ 320 (2008): 1047-50.
+Andersson, A. F., and J. F. Banfield. "{{% resource_link "8275b2ed-904b-47e3-ac30-90e7c5749453" "Virus Population Dynamics and Acquired Virus Resistance in Natural Microbial Communities" %}}." _Science_ 320 (2008): 1047-50.
 
 ### Optional
 
-Barrangou, R., C. Fremaux, H. Deveau, M. Richards, P. Boyaval, S. Moineau, D. A. Romero, and P. Horvath. "[CRISPR Provides Acquired Resistance Against Viruses in Prokaryotes](http://www.ncbi.nlm.nih.gov/pubmed/17379808)." _Science_ 315 (2007): 1709-12.
+Barrangou, R., C. Fremaux, H. Deveau, M. Richards, P. Boyaval, S. Moineau, D. A. Romero, and P. Horvath. "{{% resource_link "06da6d26-03f9-4259-97f0-b3fc58c79a09" "CRISPR Provides Acquired Resistance Against Viruses in Prokaryotes" %}}." _Science_ 315 (2007): 1709-12.
 
 
 {{< tdclose >}}
@@ -331,11 +331,11 @@ Signal transduction
 
 ### Paper 1
 
-Bhattacharrya, R. P., A. Remenyi, M. C. Good, C. J. Bashor, A. M. Falick, and W. A. Lim. "[The Ste5 Scaffold Allosterically Modulates Signaling Output of the Yeast Mating Pathway](http://www.ncbi.nlm.nih.gov/pubmed/16424299)." _Science_ 311 (2005): 822-6.
+Bhattacharrya, R. P., A. Remenyi, M. C. Good, C. J. Bashor, A. M. Falick, and W. A. Lim. "{{% resource_link "9096faba-7680-4434-94a8-969b4efb6bbe" "The Ste5 Scaffold Allosterically Modulates Signaling Output of the Yeast Mating Pathway" %}}." _Science_ 311 (2005): 822-6.
 
 ### Paper 2
 
-Malleshaiah, M. K., V. Shahrezaei, P. S. Swain, and S. W. Michnick. ["The Scaffold Protein Ste5 Directly Controls a Switch-Like Mating Decision in Yeast](http://www.nature.com/nature/journal/v465/n7294/abs/nature08946.html)." _Nature_ 465 (2010): 101-105.
+Malleshaiah, M. K., V. Shahrezaei, P. S. Swain, and S. W. Michnick. {{% resource_link "c8f9705c-d087-4436-9e18-423688fe471f" "\"The Scaffold Protein Ste5 Directly Controls a Switch-Like Mating Decision in Yeast" %}}." _Nature_ 465 (2010): 101-105.
 
 
 {{< tdclose >}}

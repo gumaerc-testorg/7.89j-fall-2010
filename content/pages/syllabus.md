@@ -17,7 +17,7 @@ Lectures: 1 session / week, 2 hours / session
 Prerequisites
 -------------
 
-First-year [CSB Ph.D. student](https://csbphd.mit.edu/) or permission of instructor.
+First-year {{% resource_link "53756a92-a204-4c00-a2a4-fcea850686f8" "CSB Ph.D. student" %}} or permission of instructor.
 
 Course Description
 ------------------
